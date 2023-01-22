@@ -1,0 +1,11 @@
+#mainForm {
+    width: 90vw;
+}
+
+#rating {
+    display: block;
+}
+
+#comment {
+    resize: none;
+}
